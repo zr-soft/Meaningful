@@ -1,0 +1,2817 @@
+{
+	"activity" : [
+				  {
+      "name" : "11点之前睡",
+      "criteria" : "",
+      "worth" : {
+				  "工作" : 10,
+				  "健康" : 20
+      },
+      "type" : "Predefined",
+      "tags" : [
+				"健康",
+				"精选",
+				"减肥"
+				],
+      "nextTime" : "2017-08-13 22:30:00",
+      "desc" : "",
+      "importance" : 6,
+      "reminder" : {
+				  "every" : 1,
+				  "dayOfWeek" : [
+								 1,
+								 2,
+								 3,
+								 4,
+								 6,
+								 7
+								 ],
+				  "dayOfMon" : [
+				  
+				  ],
+				  "unit" : "week",
+				  "minOfDay" : [
+								1350
+        ],
+				  "enabled" : true,
+				  "repeated" : true
+      },
+      "id" : "42639F38-F53B-42FB-8F7A-D212B097CE8B",
+      "status" : "Unselected",
+      "latitude" : 0,
+      "duration" : 480,
+      "longitude" : 0
+				  },
+				  {
+      "name" : "报销票据",
+      "criteria" : "",
+      "worth" : {
+				  "工作" : 4,
+				  "生活" : 2
+      },
+      "type" : "Predefined",
+      "tags" : [
+				"工作大小事"
+				],
+      "reminder" : {
+				  "every" : 1,
+				  "dayOfWeek" : [
+				  
+				  ],
+				  "dayOfMon" : [
+								25
+        ],
+				  "unit" : "month",
+				  "minOfDay" : [
+								540
+        ],
+				  "enabled" : true,
+				  "repeated" : true
+      },
+      "desc" : "",
+      "importance" : 6,
+      "status" : "Unselected",
+      "id" : "7675725A-6FF4-4E27-B9A0-B2E42716C5F1",
+      "latitude" : 0,
+      "duration" : 10,
+      "longitude" : 0
+				  },
+				  {
+      "name" : "背单词",
+      "criteria" : "",
+      "worth" : {
+				  "学习" : 10
+      },
+      "type" : "Predefined",
+      "tags" : [
+				"英语",
+				"精选"
+				],
+      "nextTime" : "2017-08-13 08:00:00",
+      "desc" : "",
+      "importance" : 3,
+      "reminder" : {
+				  "every" : 1,
+				  "dayOfWeek" : [
+				  
+				  ],
+				  "dayOfMon" : [
+				  
+				  ],
+				  "unit" : "day",
+				  "minOfDay" : [
+								480
+        ],
+				  "enabled" : true,
+				  "repeated" : true
+      },
+      "id" : "3824F29D-92D8-472A-939D-64840FBAC354",
+      "status" : "Unselected",
+      "latitude" : 0,
+      "duration" : 15,
+      "longitude" : 0
+				  },
+				  {
+      "name" : "不吃零食，不喝饮料",
+      "criteria" : "",
+      "worth" : {
+				  "健康" : 20
+      },
+      "type" : "Predefined",
+      "tags" : [
+				"精选",
+				"健康"
+				],
+      "reminder" : {
+				  "every" : 3,
+				  "dayOfWeek" : [
+				  
+				  ],
+				  "dayOfMon" : [
+				  
+				  ],
+				  "unit" : "day",
+				  "minOfDay" : [
+								480
+        ],
+				  "enabled" : false,
+				  "repeated" : true
+      },
+      "desc" : "",
+      "importance" : 6,
+      "status" : "Unselected",
+      "id" : "CB955A7B-B823-44C1-BBA9-94D05F6BB306",
+      "latitude" : 0,
+      "duration" : 480,
+      "longitude" : 0
+				  },
+				  {
+      "name" : "不吃油腻，不吃辛辣",
+      "criteria" : "",
+      "worth" : {
+				  "健康" : 10
+      },
+      "type" : "Predefined",
+      "tags" : [
+				"健康"
+				],
+      "reminder" : {
+				  "every" : 1,
+				  "dayOfWeek" : [
+				  
+				  ],
+				  "dayOfMon" : [
+				  
+				  ],
+				  "unit" : "day",
+				  "minOfDay" : [
+								0
+        ],
+				  "enabled" : false,
+				  "repeated" : false
+      },
+      "desc" : "",
+      "importance" : 9,
+      "status" : "Unselected",
+      "id" : "3C263AB3-AE6A-4FA7-A619-B847D9800F52",
+      "latitude" : 0,
+      "duration" : 720,
+      "longitude" : 0
+				  },
+				  {
+      "name" : "不适:",
+      "criteria" : "",
+      "worth" : {
+				  "健康" : 4
+      },
+      "type" : "Predefined",
+      "tags" : [
+				"精选",
+				"生病",
+				"记录生活"
+				],
+      "reminder" : {
+				  "every" : 1,
+				  "dayOfWeek" : [
+				  
+				  ],
+				  "dayOfMon" : [
+				  
+				  ],
+				  "unit" : "day",
+				  "minOfDay" : [
+								480
+        ],
+				  "enabled" : false,
+				  "repeated" : true
+      },
+      "desc" : "",
+      "importance" : 3,
+      "status" : "Unselected",
+      "id" : "FBC27BED-38A1-4126-A0E3-AB832537A365",
+      "latitude" : 0,
+      "duration" : 5,
+      "longitude" : 0
+				  },
+				  {
+      "name" : "吃坚果",
+      "criteria" : "",
+      "worth" : {
+				  "健康" : 3
+      },
+      "type" : "Predefined",
+      "tags" : [
+				"健康"
+				],
+      "reminder" : {
+				  "every" : 1,
+				  "dayOfWeek" : [
+				  
+				  ],
+				  "dayOfMon" : [
+				  
+				  ],
+				  "unit" : "day",
+				  "minOfDay" : [
+								420
+        ],
+				  "enabled" : true,
+				  "repeated" : true
+      },
+      "desc" : "",
+      "importance" : 3,
+      "status" : "Unselected",
+      "id" : "BD5CF61F-E53F-4B1D-B51A-A81E2AC9CFC3",
+      "latitude" : 0,
+      "duration" : 5,
+      "longitude" : 0
+				  },
+				  {
+      "name" : "吃苹果",
+      "criteria" : "",
+      "worth" : {
+				  "健康" : 5
+      },
+      "type" : "Predefined",
+      "tags" : [
+				"精选",
+				"健康"
+				],
+      "nextTime" : "2017-08-14 07:00:00",
+      "desc" : "",
+      "importance" : 3,
+      "reminder" : {
+				  "every" : 1,
+				  "dayOfWeek" : [
+				  
+				  ],
+				  "dayOfMon" : [
+				  
+				  ],
+				  "unit" : "day",
+				  "minOfDay" : [
+								420
+        ],
+				  "enabled" : true,
+				  "repeated" : true
+      },
+      "id" : "46C4A0E4-E8CF-4985-9606-8DC1A61B4FDC",
+      "status" : "Unselected",
+      "latitude" : 0,
+      "duration" : 5,
+      "longitude" : 0
+				  },
+				  {
+      "name" : "吃水果",
+      "criteria" : "",
+      "worth" : {
+				  "健康" : 3
+      },
+      "type" : "Predefined",
+      "tags" : [
+				"健康"
+				],
+      "reminder" : {
+				  "every" : 1,
+				  "dayOfWeek" : [
+								 2,
+								 4,
+								 6
+								 ],
+				  "dayOfMon" : [
+				  
+				  ],
+				  "unit" : "week",
+				  "minOfDay" : [
+								780
+        ],
+				  "enabled" : true,
+				  "repeated" : true
+      },
+      "desc" : "",
+      "importance" : 3,
+      "status" : "Unselected",
+      "id" : "298AE92D-20FC-4ABA-A2D9-3EAEB9F452E3",
+      "latitude" : 0,
+      "duration" : 10,
+      "longitude" : 0
+				  },
+				  {
+      "name" : "吃药",
+      "criteria" : "",
+      "worth" : {
+				  "健康" : 2
+      },
+      "type" : "Predefined",
+      "tags" : [
+				"生病"
+				],
+      "reminder" : {
+				  "every" : 1,
+				  "dayOfWeek" : [
+				  
+				  ],
+				  "dayOfMon" : [
+				  
+				  ],
+				  "unit" : "day",
+				  "minOfDay" : [
+								420,
+								780,
+								1200,
+								1200
+        ],
+				  "enabled" : false,
+				  "repeated" : false
+      },
+      "desc" : "",
+      "importance" : 9,
+      "status" : "Unselected",
+      "id" : "E6DF924F-BD2A-420A-A8C1-B780FAED2D6C",
+      "latitude" : 0,
+      "duration" : 5,
+      "longitude" : 0
+				  },
+				  {
+      "name" : "打保龄球",
+      "criteria" : "",
+      "worth" : {
+				  "社交" : 6,
+				  "运动" : 8
+      },
+      "type" : "Predefined",
+      "tags" : [
+				"玩",
+				"打球"
+				],
+      "reminder" : {
+				  "every" : 1,
+				  "dayOfWeek" : [
+				  
+				  ],
+				  "dayOfMon" : [
+				  
+				  ],
+				  "unit" : "day",
+				  "minOfDay" : [
+								0
+        ],
+				  "enabled" : false,
+				  "repeated" : false
+      },
+      "desc" : "",
+      "importance" : 3,
+      "status" : "Unselected",
+      "id" : "C85BF4CE-399E-48DA-8BEA-26F5C0CD15BA",
+      "latitude" : 0,
+      "duration" : 30,
+      "longitude" : 0
+				  },
+				  {
+      "name" : "打乒乓球",
+      "criteria" : "",
+      "worth" : {
+				  "社交" : 4,
+				  "健康" : 6,
+				  "运动" : 10
+      },
+      "type" : "Predefined",
+      "tags" : [
+				"健康"
+				],
+      "reminder" : {
+				  "every" : 1,
+				  "dayOfWeek" : [
+				  
+				  ],
+				  "dayOfMon" : [
+				  
+				  ],
+				  "unit" : "day",
+				  "minOfDay" : [
+								0
+        ],
+				  "enabled" : false,
+				  "repeated" : false
+      },
+      "desc" : "",
+      "importance" : 3,
+      "status" : "Unselected",
+      "id" : "EF8B4DD3-EED7-44EF-89AC-CA62B5B85497",
+      "latitude" : 0,
+      "duration" : 60,
+      "longitude" : 0
+				  },
+				  {
+      "name" : "打网球",
+      "criteria" : "",
+      "worth" : {
+				  "运动" : 10,
+				  "健康" : 6,
+				  "社交" : 4
+      },
+      "type" : "Predefined",
+      "tags" : [
+				"玩",
+				"打球"
+				],
+      "reminder" : {
+				  "every" : 1,
+				  "dayOfWeek" : [
+				  
+				  ],
+				  "dayOfMon" : [
+				  
+				  ],
+				  "unit" : "day",
+				  "minOfDay" : [
+								0
+        ],
+				  "enabled" : false,
+				  "repeated" : false
+      },
+      "desc" : "",
+      "importance" : 3,
+      "status" : "Unselected",
+      "id" : "840F4FE1-450D-4EA4-865C-69AA20621684",
+      "latitude" : 0,
+      "duration" : 45,
+      "longitude" : 0
+				  },
+				  {
+      "name" : "打游戏",
+      "criteria" : "",
+      "worth" : {
+				  "娱乐" : 3
+      },
+      "type" : "Predefined",
+      "tags" : [
+				"玩"
+				],
+      "reminder" : {
+				  "every" : 1,
+				  "dayOfWeek" : [
+				  
+				  ],
+				  "dayOfMon" : [
+				  
+				  ],
+				  "unit" : "day",
+				  "minOfDay" : [
+								900
+        ],
+				  "enabled" : false,
+				  "repeated" : true
+      },
+      "desc" : "",
+      "importance" : 3,
+      "status" : "Unselected",
+      "id" : "7CF804B0-607A-4B2A-96BB-81FD1153E12B",
+      "latitude" : 0,
+      "duration" : 30,
+      "longitude" : 0
+				  },
+				  {
+      "name" : "带孩子打球",
+      "criteria" : "",
+      "worth" : {
+				  "生活" : 10,
+				  "运动" : 4
+      },
+      "type" : "Predefined",
+      "tags" : [
+				"家庭"
+				],
+      "reminder" : {
+				  "every" : 2,
+				  "dayOfWeek" : [
+								 7
+								 ],
+				  "dayOfMon" : [
+				  
+				  ],
+				  "unit" : "week",
+				  "minOfDay" : [
+								1140
+        ],
+				  "enabled" : true,
+				  "repeated" : true
+      },
+      "desc" : "",
+      "importance" : 3,
+      "status" : "Unselected",
+      "id" : "E9B0428A-943F-4649-9262-8C18CBEA2296",
+      "latitude" : 0,
+      "duration" : 45,
+      "longitude" : 0
+				  },
+				  {
+      "name" : "带孩子看电影",
+      "criteria" : "",
+      "worth" : {
+				  "生活" : 16,
+				  "探索" : 10
+      },
+      "type" : "Predefined",
+      "tags" : [
+				"家庭"
+				],
+      "reminder" : {
+				  "every" : 1,
+				  "dayOfWeek" : [
+				  
+				  ],
+				  "dayOfMon" : [
+				  
+				  ],
+				  "unit" : "day",
+				  "minOfDay" : [
+								0
+        ],
+				  "enabled" : false,
+				  "repeated" : false
+      },
+      "desc" : "",
+      "importance" : 3,
+      "status" : "Unselected",
+      "id" : "4ADDD093-D4D2-49AF-B0CD-92C10BF0FFFA",
+      "latitude" : 0,
+      "duration" : 90,
+      "longitude" : 0
+				  },
+				  {
+      "name" : "带孩子去商场玩",
+      "criteria" : "",
+      "worth" : {
+				  "生活" : 15
+      },
+      "type" : "Predefined",
+      "tags" : [
+				"家庭"
+				],
+      "reminder" : {
+				  "every" : 1,
+				  "dayOfWeek" : [
+								 6,
+								 7
+								 ],
+				  "dayOfMon" : [
+				  
+				  ],
+				  "unit" : "week",
+				  "minOfDay" : [
+								600
+        ],
+				  "enabled" : true,
+				  "repeated" : true
+      },
+      "desc" : "",
+      "importance" : 3,
+      "status" : "Unselected",
+      "id" : "E86B006C-8B43-46A0-9361-F3C93E59D3F2",
+      "latitude" : 0,
+      "duration" : 60,
+      "longitude" : 0
+				  },
+				  {
+      "name" : "带孩子游泳",
+      "criteria" : "",
+      "worth" : {
+				  "健康" : 4,
+				  "生活" : 12
+      },
+      "type" : "Predefined",
+      "tags" : [
+				"家庭"
+				],
+      "reminder" : {
+				  "every" : 1,
+				  "dayOfWeek" : [
+				  
+				  ],
+				  "dayOfMon" : [
+				  
+				  ],
+				  "unit" : "day",
+				  "minOfDay" : [
+								0
+        ],
+				  "enabled" : false,
+				  "repeated" : false
+      },
+      "desc" : "",
+      "importance" : 3,
+      "status" : "Unselected",
+      "id" : "053CB4BC-FC07-4AFC-A672-E20F5C7D13B2",
+      "latitude" : 0,
+      "duration" : 30,
+      "longitude" : 0
+				  },
+				  {
+      "name" : "读两则招聘信息",
+      "criteria" : "",
+      "worth" : {
+				  "工作" : 10,
+				  "探索" : 5
+      },
+      "type" : "Predefined",
+      "tags" : [
+				"面试"
+				],
+      "reminder" : {
+				  "every" : 3,
+				  "dayOfWeek" : [
+				  
+				  ],
+				  "dayOfMon" : [
+				  
+				  ],
+				  "unit" : "day",
+				  "minOfDay" : [
+								540
+        ],
+				  "enabled" : true,
+				  "repeated" : true
+      },
+      "desc" : "",
+      "importance" : 3,
+      "status" : "Unselected",
+      "id" : "3B114167-E879-4A50-ADBC-F610B84B333A",
+      "latitude" : 0,
+      "duration" : 15,
+      "longitude" : 0
+				  },
+				  {
+      "name" : "读书:",
+      "criteria" : "",
+      "worth" : {
+				  "娱乐" : 4,
+				  "学习" : 4,
+				  "探索" : 6
+      },
+      "type" : "Predefined",
+      "tags" : [
+				"读书"
+				],
+      "reminder" : {
+				  "every" : 1,
+				  "dayOfWeek" : [
+				  
+				  ],
+				  "dayOfMon" : [
+				  
+				  ],
+				  "unit" : "day",
+				  "minOfDay" : [
+								0
+        ],
+				  "enabled" : false,
+				  "repeated" : true
+      },
+      "desc" : "",
+      "importance" : 3,
+      "status" : "Unselected",
+      "id" : "27E04BE4-0B98-4E9C-9211-F9067A8D604C",
+      "latitude" : 0,
+      "duration" : 45,
+      "longitude" : 0
+				  },
+				  {
+      "name" : "读英文书:",
+      "criteria" : "",
+      "worth" : {
+				  "学习" : 12,
+				  "生活" : 4
+      },
+      "type" : "Predefined",
+      "tags" : [
+				"英语",
+				"读书"
+				],
+      "reminder" : {
+				  "every" : 1,
+				  "dayOfWeek" : [
+				  
+				  ],
+				  "dayOfMon" : [
+				  
+				  ],
+				  "unit" : "day",
+				  "minOfDay" : [
+								0
+        ],
+				  "enabled" : false,
+				  "repeated" : true
+      },
+      "desc" : "",
+      "importance" : 3,
+      "status" : "Unselected",
+      "id" : "182F435C-B323-4870-9757-7D6772145BE6",
+      "latitude" : 0,
+      "duration" : 30,
+      "longitude" : 0
+				  },
+				  {
+      "name" : "读专业书:",
+      "criteria" : "",
+      "worth" : {
+				  "学习" : 10,
+				  "工作" : 8,
+				  "探索" : 8
+      },
+      "type" : "Predefined",
+      "tags" : [
+				"业务能力",
+				"精选",
+				"读书"
+				],
+      "reminder" : {
+				  "every" : 1,
+				  "dayOfWeek" : [
+				  
+				  ],
+				  "dayOfMon" : [
+				  
+				  ],
+				  "unit" : "day",
+				  "minOfDay" : [
+								0
+        ],
+				  "enabled" : false,
+				  "repeated" : true
+      },
+      "desc" : "",
+      "importance" : 3,
+      "status" : "Unselected",
+      "id" : "892FA07B-9048-45B2-92E6-F8EEFFA95956",
+      "latitude" : 0,
+      "duration" : 45,
+      "longitude" : 0
+				  },
+				  {
+      "name" : "工作:",
+      "criteria" : "",
+      "worth" : {
+				  "工作" : 10
+      },
+      "type" : "Predefined",
+      "tags" : [
+				"工作大小事"
+				],
+      "reminder" : {
+				  "every" : 1,
+				  "dayOfWeek" : [
+				  
+				  ],
+				  "dayOfMon" : [
+				  
+				  ],
+				  "unit" : "day",
+				  "minOfDay" : [
+								0
+        ],
+				  "enabled" : true,
+				  "repeated" : false
+      },
+      "desc" : "",
+      "importance" : 3,
+      "status" : "Unselected",
+      "id" : "D20F49A8-3CD9-4721-8CDB-9797ABC40F01",
+      "latitude" : 0,
+      "duration" : 30,
+      "longitude" : 0
+				  },
+				  {
+      "name" : "公司活动",
+      "criteria" : "",
+      "worth" : {
+				  "工作" : 6,
+				  "运动" : 4,
+				  "社交" : 4,
+				  "探索" : 4
+      },
+      "type" : "Predefined",
+      "tags" : [
+				"工作大小事"
+				],
+      "reminder" : {
+				  "every" : 1,
+				  "dayOfWeek" : [
+				  
+				  ],
+				  "dayOfMon" : [
+				  
+				  ],
+				  "unit" : "day",
+				  "minOfDay" : [
+								0
+        ],
+				  "enabled" : false,
+				  "repeated" : false
+      },
+      "desc" : "",
+      "importance" : 3,
+      "status" : "Unselected",
+      "id" : "B45EF6BE-BD5B-470B-B12E-9713595F1F90",
+      "latitude" : 0,
+      "duration" : 90,
+      "longitude" : 0
+				  },
+				  {
+      "name" : "好吃的",
+      "criteria" : "",
+      "worth" : {
+				  "生活" : 10
+      },
+      "type" : "Predefined",
+      "tags" : [
+				"玩",
+				"吃好的"
+				],
+      "reminder" : {
+				  "every" : 1,
+				  "dayOfWeek" : [
+				  
+				  ],
+				  "dayOfMon" : [
+				  
+				  ],
+				  "unit" : "day",
+				  "minOfDay" : [
+								0
+        ],
+				  "enabled" : false,
+				  "repeated" : true
+      },
+      "desc" : "",
+      "importance" : 3,
+      "status" : "Unselected",
+      "id" : "42BABEEE-A260-4127-A2B5-F30FC63CA4ED",
+      "latitude" : 0,
+      "duration" : 30,
+      "longitude" : 0
+				  },
+				  {
+      "name" : "喝豆浆",
+      "criteria" : "",
+      "worth" : {
+				  "健康" : 3
+      },
+      "type" : "Predefined",
+      "tags" : [
+				"健康"
+				],
+      "reminder" : {
+				  "every" : 1,
+				  "dayOfWeek" : [
+								 2,
+								 4
+								 ],
+				  "dayOfMon" : [
+				  
+				  ],
+				  "unit" : "week",
+				  "minOfDay" : [
+								540
+        ],
+				  "enabled" : true,
+				  "repeated" : true
+      },
+      "desc" : "",
+      "importance" : 3,
+      "status" : "Unselected",
+      "id" : "D52C54C4-42B1-4B18-882D-78DBD7B61165",
+      "latitude" : 0,
+      "duration" : 5,
+      "longitude" : 0
+				  },
+				  {
+      "name" : "喝果汁",
+      "criteria" : "",
+      "worth" : {
+				  "健康" : 2
+      },
+      "type" : "Predefined",
+      "tags" : [
+				"健康"
+				],
+      "reminder" : {
+				  "every" : 3,
+				  "dayOfWeek" : [
+				  
+				  ],
+				  "dayOfMon" : [
+				  
+				  ],
+				  "unit" : "day",
+				  "minOfDay" : [
+								900
+        ],
+				  "enabled" : false,
+				  "repeated" : true
+      },
+      "desc" : "",
+      "importance" : 3,
+      "status" : "Unselected",
+      "id" : "DB0C0847-1E74-457A-BB8F-EC4AC14731BA",
+      "latitude" : 0,
+      "duration" : 5,
+      "longitude" : 0
+				  },
+				  {
+      "name" : "喝菊花茶",
+      "criteria" : "",
+      "worth" : {
+				  "健康" : 3
+      },
+      "type" : "Predefined",
+      "tags" : [
+				"健康"
+				],
+      "reminder" : {
+				  "every" : 1,
+				  "dayOfWeek" : [
+								 2,
+								 4
+								 ],
+				  "dayOfMon" : [
+				  
+				  ],
+				  "unit" : "week",
+				  "minOfDay" : [
+								600
+        ],
+				  "enabled" : false,
+				  "repeated" : true
+      },
+      "desc" : "",
+      "importance" : 3,
+      "status" : "Unselected",
+      "id" : "5EEE64DF-6282-4873-82AC-D555138FBF8B",
+      "latitude" : 0,
+      "duration" : 30,
+      "longitude" : 0
+				  },
+				  {
+      "name" : "喝牛奶",
+      "criteria" : "",
+      "worth" : {
+				  "健康" : 3
+      },
+      "type" : "Predefined",
+      "tags" : [
+				"健康"
+				],
+      "reminder" : {
+				  "every" : 2,
+				  "dayOfWeek" : [
+				  
+				  ],
+				  "dayOfMon" : [
+				  
+				  ],
+				  "unit" : "day",
+				  "minOfDay" : [
+								420
+        ],
+				  "enabled" : true,
+				  "repeated" : true
+      },
+      "desc" : "",
+      "importance" : 3,
+      "status" : "Unselected",
+      "id" : "75B10BDE-7B29-4133-8DF2-77FEEEF7A412",
+      "latitude" : 0,
+      "duration" : 5,
+      "longitude" : 0
+				  },
+				  {
+      "name" : "喝酸奶",
+      "criteria" : "",
+      "worth" : {
+				  "健康" : 3
+      },
+      "type" : "Predefined",
+      "tags" : [
+				"健康",
+				"周末"
+				],
+      "reminder" : {
+				  "every" : 1,
+				  "dayOfWeek" : [
+								 3,
+								 6
+								 ],
+				  "dayOfMon" : [
+				  
+				  ],
+				  "unit" : "week",
+				  "minOfDay" : [
+								480
+        ],
+				  "enabled" : true,
+				  "repeated" : true
+      },
+      "desc" : "",
+      "importance" : 3,
+      "status" : "Unselected",
+      "id" : "FE9D5523-24C3-4FB8-AFA9-B4CB656575A4",
+      "latitude" : 0,
+      "duration" : 5,
+      "longitude" : 0
+				  },
+				  {
+      "name" : "喝燕麦粥",
+      "criteria" : "",
+      "worth" : {
+				  "健康" : 4
+      },
+      "type" : "Predefined",
+      "tags" : [
+				"健康"
+				],
+      "reminder" : {
+				  "every" : 2,
+				  "dayOfWeek" : [
+				  
+				  ],
+				  "dayOfMon" : [
+				  
+				  ],
+				  "unit" : "day",
+				  "minOfDay" : [
+								420
+        ],
+				  "enabled" : true,
+				  "repeated" : true
+      },
+      "desc" : "",
+      "importance" : 3,
+      "status" : "Unselected",
+      "id" : "D681DEF1-8F04-45DD-91EA-84D30D103622",
+      "latitude" : 0,
+      "duration" : 10,
+      "longitude" : 0
+				  },
+				  {
+      "name" : "和朋友吃饭",
+      "criteria" : "",
+      "worth" : {
+				  "社交" : 16
+      },
+      "type" : "Predefined",
+      "tags" : [
+				"吃好的",
+				"精选",
+				"朋友"
+				],
+      "nextTime" : "2017-08-13 12:00:00",
+      "desc" : "",
+      "importance" : 3,
+      "reminder" : {
+				  "every" : 4,
+				  "dayOfWeek" : [
+				  
+				  ],
+				  "dayOfMon" : [
+				  
+				  ],
+				  "unit" : "day",
+				  "minOfDay" : [
+								720
+        ],
+				  "enabled" : true,
+				  "repeated" : true
+      },
+      "id" : "226BCC12-4E9A-4CD9-99B3-60C50B0CD198",
+      "status" : "Unselected",
+      "latitude" : 0,
+      "duration" : 60,
+      "longitude" : 0
+				  },
+				  {
+      "name" : "剪指甲",
+      "criteria" : "",
+      "worth" : {
+				  "健康" : 2,
+				  "生活" : 10
+      },
+      "type" : "Predefined",
+      "tags" : [
+				"个人卫生"
+				],
+      "reminder" : {
+				  "every" : 18,
+				  "dayOfWeek" : [
+				  
+				  ],
+				  "dayOfMon" : [
+				  
+				  ],
+				  "unit" : "day",
+				  "minOfDay" : [
+								420
+        ],
+				  "enabled" : true,
+				  "repeated" : true
+      },
+      "desc" : "",
+      "importance" : 3,
+      "status" : "Unselected",
+      "id" : "53439E9E-EE7C-4D16-8425-488F551264F2",
+      "latitude" : 0,
+      "duration" : 10,
+      "longitude" : 0
+				  },
+				  {
+      "name" : "见客户",
+      "criteria" : "",
+      "worth" : {
+				  "社交" : 6,
+				  "工作" : 12,
+				  "探索" : 6
+      },
+      "type" : "Predefined",
+      "tags" : [
+				"工作大小事"
+				],
+      "reminder" : {
+				  "every" : 1,
+				  "dayOfWeek" : [
+				  
+				  ],
+				  "dayOfMon" : [
+				  
+				  ],
+				  "unit" : "day",
+				  "minOfDay" : [
+								0
+        ],
+				  "enabled" : false,
+				  "repeated" : false
+      },
+      "desc" : "",
+      "importance" : 3,
+      "status" : "Unselected",
+      "id" : "6511CC3B-9A77-484B-A16C-685B0F9515D4",
+      "latitude" : 0,
+      "duration" : 60,
+      "longitude" : 0
+				  },
+				  {
+      "name" : "健康一餐",
+      "criteria" : "",
+      "worth" : {
+				  "健康" : 8
+      },
+      "type" : "Predefined",
+      "tags" : [
+				"健康",
+				"减肥",
+				"周末"
+				],
+      "reminder" : {
+				  "every" : 1,
+				  "dayOfWeek" : [
+				  
+				  ],
+				  "dayOfMon" : [
+				  
+				  ],
+				  "unit" : "day",
+				  "minOfDay" : [
+								0
+        ],
+				  "enabled" : false,
+				  "repeated" : false
+      },
+      "desc" : "",
+      "importance" : 3,
+      "status" : "Unselected",
+      "id" : "2AC319CF-3620-45EE-BB74-E70066061F2D",
+      "latitude" : 0,
+      "duration" : 30,
+      "longitude" : 0
+				  },
+				  {
+      "name" : "健身",
+      "criteria" : "",
+      "worth" : {
+				  "健康" : 5,
+				  "运动" : 10
+      },
+      "type" : "Predefined",
+      "tags" : [
+				"健康",
+				"增肌",
+				"精选"
+				],
+      "nextTime" : "2017-08-16 08:00:00",
+      "desc" : "",
+      "importance" : 3,
+      "reminder" : {
+				  "every" : 1,
+				  "dayOfWeek" : [
+								 3,
+								 6
+								 ],
+				  "dayOfMon" : [
+				  
+				  ],
+				  "unit" : "week",
+				  "minOfDay" : [
+								480
+        ],
+				  "enabled" : true,
+				  "repeated" : true
+      },
+      "id" : "3F60AEA7-D3FD-4088-A370-F96B46B9B6C0",
+      "status" : "Unselected",
+      "latitude" : 0,
+      "duration" : 30,
+      "longitude" : 0
+				  },
+				  {
+      "name" : "节日:",
+      "criteria" : "",
+      "worth" : {
+				  "生活" : 16
+      },
+      "type" : "Predefined",
+      "tags" : [
+				"记录生活"
+				],
+      "reminder" : {
+				  "every" : 1,
+				  "dayOfWeek" : [
+				  
+				  ],
+				  "dayOfMon" : [
+				  
+				  ],
+				  "unit" : "day",
+				  "minOfDay" : [
+								0
+        ],
+				  "enabled" : false,
+				  "repeated" : false
+      },
+      "desc" : "",
+      "importance" : 3,
+      "status" : "Unselected",
+      "id" : "C54E8143-3111-4E76-A1B5-47841823F2AB",
+      "latitude" : 0,
+      "duration" : 30,
+      "longitude" : 0
+				  },
+				  {
+      "name" : "看电影",
+      "criteria" : "",
+      "worth" : {
+				  "探索" : 6,
+				  "娱乐" : 12,
+				  "生活" : 8
+      },
+      "type" : "Predefined",
+      "tags" : [
+				"玩"
+				],
+      "reminder" : {
+				  "every" : 1,
+				  "dayOfWeek" : [
+				  
+				  ],
+				  "dayOfMon" : [
+				  
+				  ],
+				  "unit" : "day",
+				  "minOfDay" : [
+								0
+        ],
+				  "enabled" : false,
+				  "repeated" : true
+      },
+      "desc" : "",
+      "importance" : 3,
+      "status" : "Unselected",
+      "id" : "DEEDB335-9B67-4431-AC55-5F3FB4682382",
+      "latitude" : 0,
+      "duration" : 120,
+      "longitude" : 0
+				  },
+				  {
+      "name" : "看视频",
+      "criteria" : "",
+      "worth" : {
+				  "娱乐" : 3
+      },
+      "type" : "Predefined",
+      "tags" : [
+				"玩",
+				"精选"
+				],
+      "nextTime" : "2017-08-14 18:00:00",
+      "desc" : "",
+      "importance" : 3,
+      "reminder" : {
+				  "every" : 1,
+				  "dayOfWeek" : [
+								 1,
+								 2,
+								 3,
+								 4,
+								 5
+								 ],
+				  "dayOfMon" : [
+				  
+				  ],
+				  "unit" : "week",
+				  "minOfDay" : [
+								1080
+        ],
+				  "enabled" : true,
+				  "repeated" : true
+      },
+      "id" : "69E6873E-6962-4F37-A882-88F553E1E17B",
+      "status" : "Unselected",
+      "latitude" : 0,
+      "duration" : 45,
+      "longitude" : 0
+				  },
+				  {
+      "name" : "理发",
+      "criteria" : "",
+      "worth" : {
+				  "健康" : 4,
+				  "生活" : 20
+      },
+      "type" : "Predefined",
+      "tags" : [
+				"个人卫生"
+				],
+      "reminder" : {
+				  "every" : 52,
+				  "dayOfWeek" : [
+				  
+				  ],
+				  "dayOfMon" : [
+				  
+				  ],
+				  "unit" : "day",
+				  "minOfDay" : [
+								660
+        ],
+				  "enabled" : true,
+				  "repeated" : true
+      },
+      "desc" : "",
+      "importance" : 9,
+      "status" : "Unselected",
+      "id" : "F4B693C3-9741-42E5-806F-C3E6DA202B48",
+      "latitude" : 0,
+      "duration" : 30,
+      "longitude" : 0
+				  },
+				  {
+      "name" : "买:",
+      "criteria" : "",
+      "worth" : {
+				  "生活" : 4
+      },
+      "type" : "Predefined",
+      "tags" : [
+				"记录生活"
+				],
+      "reminder" : {
+				  "every" : 1,
+				  "dayOfWeek" : [
+				  
+				  ],
+				  "dayOfMon" : [
+				  
+				  ],
+				  "unit" : "day",
+				  "minOfDay" : [
+								0
+        ],
+				  "enabled" : false,
+				  "repeated" : true
+      },
+      "desc" : "",
+      "importance" : 3,
+      "status" : "Unselected",
+      "id" : "DBF85341-1C05-4173-9C65-5961AC7C29E6",
+      "latitude" : 0,
+      "duration" : 10,
+      "longitude" : 0
+				  },
+				  {
+      "name" : "偶遇",
+      "criteria" : "",
+      "worth" : {
+				  "社交" : 7,
+				  "生活" : 5
+      },
+      "type" : "Predefined",
+      "tags" : [
+				"记录生活"
+				],
+      "reminder" : {
+				  "every" : 1,
+				  "dayOfWeek" : [
+				  
+				  ],
+				  "dayOfMon" : [
+				  
+				  ],
+				  "unit" : "day",
+				  "minOfDay" : [
+								0
+        ],
+				  "enabled" : false,
+				  "repeated" : false
+      },
+      "desc" : "",
+      "importance" : 3,
+      "status" : "Unselected",
+      "id" : "E79C868D-9E3D-4F4A-B494-6C954A611EDB",
+      "latitude" : 0,
+      "duration" : 30,
+      "longitude" : 0
+				  },
+				  {
+      "name" : "跑步",
+      "criteria" : "",
+      "worth" : {
+				  "健康" : 10,
+				  "运动" : 15
+      },
+      "type" : "Predefined",
+      "tags" : [
+				"健康",
+				"精选",
+				"减肥"
+				],
+      "nextTime" : "2017-08-14 08:00:00",
+      "desc" : "",
+      "importance" : 6,
+      "reminder" : {
+				  "every" : 3,
+				  "dayOfWeek" : [
+				  
+				  ],
+				  "dayOfMon" : [
+				  
+				  ],
+				  "unit" : "day",
+				  "minOfDay" : [
+								480
+        ],
+				  "enabled" : true,
+				  "repeated" : true
+      },
+      "id" : "7A0FE93A-323A-4FA0-9E96-2B194B8E00D9",
+      "status" : "Unselected",
+      "latitude" : 0,
+      "duration" : 30,
+      "longitude" : 0
+				  },
+				  {
+      "name" : "朋友来访",
+      "criteria" : "",
+      "worth" : {
+				  "生活" : 18,
+				  "社交" : 20
+      },
+      "type" : "Predefined",
+      "tags" : [
+				"朋友"
+				],
+      "reminder" : {
+				  "every" : 1,
+				  "dayOfWeek" : [
+				  
+				  ],
+				  "dayOfMon" : [
+				  
+				  ],
+				  "unit" : "day",
+				  "minOfDay" : [
+								0
+        ],
+				  "enabled" : false,
+				  "repeated" : false
+      },
+      "desc" : "",
+      "importance" : 3,
+      "status" : "Unselected",
+      "id" : "3972BBFC-AD14-4CC0-BC01-08E70AA46D8A",
+      "latitude" : 0,
+      "duration" : 60,
+      "longitude" : 0
+				  },
+				  {
+      "name" : "亲朋聚会",
+      "criteria" : "",
+      "worth" : {
+				  "社交" : 20,
+				  "生活" : 18
+      },
+      "type" : "Predefined",
+      "tags" : [
+				"朋友"
+				],
+      "reminder" : {
+				  "every" : 1,
+				  "dayOfWeek" : [
+				  
+				  ],
+				  "dayOfMon" : [
+				  
+				  ],
+				  "unit" : "day",
+				  "minOfDay" : [
+								0
+        ],
+				  "enabled" : false,
+				  "repeated" : false
+      },
+      "desc" : "",
+      "importance" : 3,
+      "status" : "Unselected",
+      "id" : "6DB6380C-095C-4872-BB2C-E3798A9AC350",
+      "latitude" : 0,
+      "duration" : 90,
+      "longitude" : 0
+				  },
+				  {
+      "name" : "去个新地方",
+      "criteria" : "",
+      "worth" : {
+				  "生活" : 4,
+				  "探索" : 10
+      },
+      "type" : "Predefined",
+      "tags" : [
+				"发现",
+				"记录生活"
+				],
+      "reminder" : {
+				  "every" : 1,
+				  "dayOfWeek" : [
+				  
+				  ],
+				  "dayOfMon" : [
+				  
+				  ],
+				  "unit" : "day",
+				  "minOfDay" : [
+								1020
+        ],
+				  "enabled" : false,
+				  "repeated" : true
+      },
+      "desc" : "",
+      "importance" : 3,
+      "status" : "Unselected",
+      "id" : "E59199A8-0173-4AB2-8C4C-AD084204D4C6",
+      "latitude" : 0,
+      "duration" : 30,
+      "longitude" : 0
+				  },
+				  {
+      "name" : "去朋友家",
+      "criteria" : "",
+      "worth" : {
+				  "社交" : 20,
+				  "生活" : 18
+      },
+      "type" : "Predefined",
+      "tags" : [
+				"朋友"
+				],
+      "reminder" : {
+				  "every" : 1,
+				  "dayOfWeek" : [
+				  
+				  ],
+				  "dayOfMon" : [
+				  
+				  ],
+				  "unit" : "day",
+				  "minOfDay" : [
+								0
+        ],
+				  "enabled" : false,
+				  "repeated" : false
+      },
+      "desc" : "",
+      "importance" : 3,
+      "status" : "Unselected",
+      "id" : "64E5F89A-E853-414F-ABEE-76DA17245D85",
+      "latitude" : 0,
+      "duration" : 30,
+      "longitude" : 0
+				  },
+				  {
+      "name" : "去图书馆",
+      "criteria" : "",
+      "worth" : {
+				  "探索" : 5,
+				  "学习" : 2,
+				  "生活" : 3
+      },
+      "type" : "Predefined",
+      "tags" : [
+				"读书"
+				],
+      "reminder" : {
+				  "every" : 1,
+				  "dayOfWeek" : [
+				  
+				  ],
+				  "dayOfMon" : [
+				  
+				  ],
+				  "unit" : "day",
+				  "minOfDay" : [
+								0
+        ],
+				  "enabled" : false,
+				  "repeated" : false
+      },
+      "desc" : "",
+      "importance" : 3,
+      "status" : "Unselected",
+      "id" : "A3E57C68-B89F-4BA3-87C4-E958E2E82846",
+      "latitude" : 0,
+      "duration" : 45,
+      "longitude" : 0
+				  },
+				  {
+      "name" : "认识新朋友",
+      "criteria" : "",
+      "worth" : {
+				  "探索" : 16,
+				  "社交" : 20
+      },
+      "type" : "Predefined",
+      "tags" : [
+				"精选",
+				"朋友"
+				],
+      "reminder" : {
+				  "every" : 1,
+				  "dayOfWeek" : [
+				  
+				  ],
+				  "dayOfMon" : [
+				  
+				  ],
+				  "unit" : "day",
+				  "minOfDay" : [
+								0
+        ],
+				  "enabled" : false,
+				  "repeated" : false
+      },
+      "desc" : "",
+      "importance" : 3,
+      "status" : "Unselected",
+      "id" : "A5557185-8369-474D-861A-D7C6050FF623",
+      "latitude" : 0,
+      "duration" : 5,
+      "longitude" : 0
+				  },
+				  {
+      "name" : "日记:",
+      "criteria" : "",
+      "worth" : {
+				  "生活" : 10
+      },
+      "type" : "Predefined",
+      "tags" : [
+				"精选",
+				"记录生活"
+				],
+      "nextTime" : "2017-08-13 22:00:00",
+      "desc" : "",
+      "importance" : 3,
+      "reminder" : {
+				  "every" : 1,
+				  "dayOfWeek" : [
+				  
+				  ],
+				  "dayOfMon" : [
+				  
+				  ],
+				  "unit" : "day",
+				  "minOfDay" : [
+								1320
+        ],
+				  "enabled" : true,
+				  "repeated" : true
+      },
+      "id" : "579D8AD3-3D1C-4D42-B275-BEF880B702C9",
+      "status" : "Unselected",
+      "latitude" : 0,
+      "duration" : 5,
+      "longitude" : 0
+				  },
+				  {
+      "name" : "上一门公开课",
+      "criteria" : "",
+      "worth" : {
+				  "学习" : 15,
+				  "探索" : 10
+      },
+      "type" : "Predefined",
+      "tags" : [
+				"精选"
+				],
+      "nextTime" : "2017-08-13 14:00:00",
+      "desc" : "",
+      "importance" : 3,
+      "reminder" : {
+				  "every" : 2,
+				  "dayOfWeek" : [
+				  
+				  ],
+				  "dayOfMon" : [
+				  
+				  ],
+				  "unit" : "day",
+				  "minOfDay" : [
+								840
+        ],
+				  "enabled" : true,
+				  "repeated" : true
+      },
+      "id" : "0B64BE21-CC96-4F66-9378-A23FE4C3458A",
+      "status" : "Live",
+      "latitude" : 0,
+      "duration" : 45,
+      "longitude" : 0
+				  },
+				  {
+      "name" : "生日",
+      "criteria" : "",
+      "worth" : {
+				  "生活" : 20
+      },
+      "type" : "Predefined",
+      "tags" : [
+				"记录生活"
+				],
+      "reminder" : {
+				  "every" : 1,
+				  "dayOfWeek" : [
+				  
+				  ],
+				  "dayOfMon" : [
+				  
+				  ],
+				  "unit" : "day",
+				  "minOfDay" : [
+								0
+        ],
+				  "enabled" : false,
+				  "repeated" : false
+      },
+      "desc" : "",
+      "importance" : 3,
+      "status" : "Unselected",
+      "id" : "D08032CB-99D5-4690-9B12-EC686A7589C8",
+      "latitude" : 0,
+      "duration" : 60,
+      "longitude" : 0
+				  },
+				  {
+      "name" : "试吃新菜",
+      "criteria" : "",
+      "worth" : {
+				  "生活" : 2,
+				  "探索" : 6
+      },
+      "type" : "Predefined",
+      "tags" : [
+				"发现",
+				"吃好的"
+				],
+      "reminder" : {
+				  "every" : 3,
+				  "dayOfWeek" : [
+				  
+				  ],
+				  "dayOfMon" : [
+				  
+				  ],
+				  "unit" : "day",
+				  "minOfDay" : [
+								660
+        ],
+				  "enabled" : true,
+				  "repeated" : true
+      },
+      "desc" : "",
+      "importance" : 3,
+      "status" : "Unselected",
+      "id" : "4ADA6F93-51FD-473B-A287-ECA77786FC1C",
+      "latitude" : 0,
+      "duration" : 45,
+      "longitude" : 0
+				  },
+				  {
+      "name" : "试吃新餐馆",
+      "criteria" : "",
+      "worth" : {
+				  "探索" : 15,
+				  "生活" : 5
+      },
+      "type" : "Predefined",
+      "tags" : [
+				"发现",
+				"精选",
+				"吃好的"
+				],
+      "nextTime" : "2017-08-16 12:00:00",
+      "desc" : "",
+      "importance" : 3,
+      "reminder" : {
+				  "every" : 1,
+				  "dayOfWeek" : [
+								 3
+								 ],
+				  "dayOfMon" : [
+				  
+				  ],
+				  "unit" : "week",
+				  "minOfDay" : [
+								720
+        ],
+				  "enabled" : true,
+				  "repeated" : true
+      },
+      "id" : "1CFC67A1-21EC-4FF5-B482-0AD12D7BC3D3",
+      "status" : "Unselected",
+      "latitude" : 0,
+      "duration" : 45,
+      "longitude" : 0
+				  },
+				  {
+      "name" : "试吃新零食",
+      "criteria" : "",
+      "worth" : {
+				  "探索" : 4,
+				  "生活" : 2
+      },
+      "type" : "Predefined",
+      "tags" : [
+				"发现",
+				"精选",
+				"吃好的"
+				],
+      "nextTime" : "2017-08-13 15:00:00",
+      "desc" : "",
+      "importance" : 3,
+      "reminder" : {
+				  "every" : 4,
+				  "dayOfWeek" : [
+				  
+				  ],
+				  "dayOfMon" : [
+				  
+				  ],
+				  "unit" : "day",
+				  "minOfDay" : [
+								900
+        ],
+				  "enabled" : true,
+				  "repeated" : true
+      },
+      "id" : "3E98342F-2D14-4C2C-961D-1F1539D7C6D9",
+      "status" : "Unselected",
+      "latitude" : 0,
+      "duration" : 5,
+      "longitude" : 0
+				  },
+				  {
+      "name" : "收拾书桌",
+      "criteria" : "",
+      "worth" : {
+				  "生活" : 5
+      },
+      "type" : "Predefined",
+      "tags" : [
+				"家务"
+				],
+      "nextTime" : "2017-08-19 09:00:00",
+      "desc" : "",
+      "importance" : 3,
+      "reminder" : {
+				  "every" : 1,
+				  "dayOfWeek" : [
+								 6
+								 ],
+				  "dayOfMon" : [
+				  
+				  ],
+				  "unit" : "week",
+				  "minOfDay" : [
+								540
+        ],
+				  "enabled" : true,
+				  "repeated" : true
+      },
+      "id" : "8984BF25-B023-4EFF-8F14-79D2B991DBDF",
+      "status" : "Live",
+      "latitude" : 0,
+      "duration" : 15,
+      "longitude" : 0
+				  },
+				  {
+      "name" : "刷马桶",
+      "criteria" : "",
+      "worth" : {
+				  "生活" : 5
+      },
+      "type" : "Predefined",
+      "tags" : [
+				"家务"
+				],
+      "reminder" : {
+				  "every" : 14,
+				  "dayOfWeek" : [
+				  
+				  ],
+				  "dayOfMon" : [
+				  
+				  ],
+				  "unit" : "day",
+				  "minOfDay" : [
+								420
+        ],
+				  "enabled" : true,
+				  "repeated" : true
+      },
+      "desc" : "",
+      "importance" : 6,
+      "status" : "Unselected",
+      "id" : "E7CE5265-8650-4BC0-AD8B-8196DED2C286",
+      "latitude" : 0,
+      "duration" : 5,
+      "longitude" : 0
+				  },
+				  {
+      "name" : "睡午觉",
+      "criteria" : "",
+      "worth" : {
+				  "健康" : 6
+      },
+      "type" : "Predefined",
+      "tags" : [
+				"周末"
+				],
+      "reminder" : {
+				  "every" : 1,
+				  "dayOfWeek" : [
+								 6,
+								 7
+								 ],
+				  "dayOfMon" : [
+								4,
+								17
+        ],
+				  "unit" : "week",
+				  "minOfDay" : [
+								780
+        ],
+				  "enabled" : true,
+				  "repeated" : true
+      },
+      "desc" : "",
+      "importance" : 3,
+      "status" : "Unselected",
+      "id" : "B4C660A0-EBA6-418C-9D77-8ADA20AC1600",
+      "latitude" : 0,
+      "duration" : 30,
+      "longitude" : 0
+				  },
+				  {
+      "name" : "下楼走走",
+      "criteria" : "",
+      "worth" : {
+				  "健康" : 2,
+				  "运动" : 1
+      },
+      "type" : "Predefined",
+      "tags" : [
+				"工作大小事",
+				"健康",
+				"精选"
+				],
+      "nextTime" : "2017-08-14 10:30:00",
+      "desc" : "",
+      "importance" : 3,
+      "reminder" : {
+				  "every" : 1,
+				  "dayOfWeek" : [
+								 1,
+								 2,
+								 3,
+								 4,
+								 5
+								 ],
+				  "dayOfMon" : [
+				  
+				  ],
+				  "unit" : "week",
+				  "minOfDay" : [
+								630,
+								870,
+								990,
+								990
+        ],
+				  "enabled" : true,
+				  "repeated" : true
+      },
+      "id" : "6E91AD6A-1055-4EC7-957A-A5C3C70CED8B",
+      "status" : "Unselected",
+      "latitude" : 0,
+      "duration" : 10,
+      "longitude" : 0
+				  },
+				  {
+      "name" : "心情:",
+      "criteria" : "",
+      "worth" : {
+				  "生活" : 5
+      },
+      "type" : "Predefined",
+      "tags" : [
+				"精选"
+				],
+      "nextTime" : "2017-08-13 22:00:00",
+      "desc" : "",
+      "importance" : 3,
+      "reminder" : {
+				  "every" : 1,
+				  "dayOfWeek" : [
+				  
+				  ],
+				  "dayOfMon" : [
+				  
+				  ],
+				  "unit" : "day",
+				  "minOfDay" : [
+								1320
+        ],
+				  "enabled" : true,
+				  "repeated" : true
+      },
+      "id" : "4E167B7B-C6FA-469A-91FB-A85376415A0D",
+      "status" : "Live",
+      "latitude" : 0,
+      "duration" : 30,
+      "longitude" : 0
+				  },
+				  {
+      "name" : "学个小技能:",
+      "criteria" : "",
+      "worth" : {
+				  "学习" : 10,
+				  "探索" : 12
+      },
+      "type" : "Predefined",
+      "tags" : [
+				  
+      ],
+      "reminder" : {
+				  "every" : 1,
+				  "dayOfWeek" : [
+				  
+				  ],
+				  "dayOfMon" : [
+				  
+				  ],
+				  "unit" : "day",
+				  "minOfDay" : [
+								0
+        ],
+				  "enabled" : false,
+				  "repeated" : true
+      },
+      "desc" : "",
+      "importance" : 3,
+      "status" : "Unselected",
+      "id" : "21DD2EB1-5F49-4C11-B1E9-BBD2048A2B80",
+      "latitude" : 0,
+      "duration" : 30,
+      "longitude" : 0
+				  },
+				  {
+      "name" : "学做新菜",
+      "criteria" : "",
+      "worth" : {
+				  "探索" : 10,
+				  "生活" : 8
+      },
+      "type" : "Predefined",
+      "tags" : [
+				"吃好的"
+				],
+      "reminder" : {
+				  "every" : 1,
+				  "dayOfWeek" : [
+				  
+				  ],
+				  "dayOfMon" : [
+				  
+				  ],
+				  "unit" : "day",
+				  "minOfDay" : [
+								0
+        ],
+				  "enabled" : false,
+				  "repeated" : false
+      },
+      "desc" : "",
+      "importance" : 3,
+      "status" : "Unselected",
+      "id" : "B027DB3E-ABCA-4BB8-AE00-B46FBDC2E31B",
+      "latitude" : 0,
+      "duration" : 30,
+      "longitude" : 0
+				  },
+				  {
+      "name" : "一家子饭店吃饭",
+      "criteria" : "",
+      "worth" : {
+				  "生活" : 15
+      },
+      "type" : "Predefined",
+      "tags" : [
+				"家庭"
+				],
+      "reminder" : {
+				  "every" : 1,
+				  "dayOfWeek" : [
+								 6
+								 ],
+				  "dayOfMon" : [
+				  
+				  ],
+				  "unit" : "week",
+				  "minOfDay" : [
+								660
+        ],
+				  "enabled" : true,
+				  "repeated" : true
+      },
+      "desc" : "",
+      "importance" : 3,
+      "status" : "Unselected",
+      "id" : "8A575FCA-C0B4-45D2-9421-FC53DF4905AC",
+      "latitude" : 0,
+      "duration" : 45,
+      "longitude" : 0
+				  },
+				  {
+      "name" : "游泳",
+      "criteria" : "",
+      "worth" : {
+				  "健康" : 8,
+				  "运动" : 12
+      },
+      "type" : "Predefined",
+      "tags" : [
+				"健康",
+				"增肌",
+				"减肥"
+				],
+      "reminder" : {
+				  "every" : 3,
+				  "dayOfWeek" : [
+				  
+				  ],
+				  "dayOfMon" : [
+				  
+				  ],
+				  "unit" : "day",
+				  "minOfDay" : [
+								1140
+        ],
+				  "enabled" : false,
+				  "repeated" : true
+      },
+      "desc" : "",
+      "importance" : 6,
+      "status" : "Unselected",
+      "id" : "F706395A-FA67-4404-B302-442EB86BBBC8",
+      "latitude" : 0,
+      "duration" : 30,
+      "longitude" : 0
+				  },
+				  {
+      "name" : "走八千步",
+      "criteria" : "walk:8000",
+      "worth" : {
+				  "健康" : 6,
+				  "运动" : 6
+      },
+      "type" : "Predefined",
+      "tags" : [
+				"精选",
+				"健康"
+				],
+      "nextTime" : "2017-08-13 17:00:00",
+      "desc" : "",
+      "importance" : 3,
+      "reminder" : {
+				  "every" : 3,
+				  "dayOfWeek" : [
+				  
+				  ],
+				  "dayOfMon" : [
+				  
+				  ],
+				  "unit" : "day",
+				  "minOfDay" : [
+								1020
+        ],
+				  "enabled" : true,
+				  "repeated" : true
+      },
+      "id" : "4B95000A-6834-484E-B157-A3141202A458",
+      "status" : "Unselected",
+      "latitude" : 0,
+      "duration" : 1440,
+      "longitude" : 0
+				  },
+				  {
+      "name" : "走两万步",
+      "criteria" : "walk:20000",
+      "worth" : {
+				  "健康" : 5,
+				  "运动" : 7
+      },
+      "type" : "Predefined",
+      "tags" : [
+				"减肥"
+				],
+      "reminder" : {
+				  "every" : 1,
+				  "dayOfWeek" : [
+				  
+				  ],
+				  "dayOfMon" : [
+				  
+				  ],
+				  "unit" : "day",
+				  "minOfDay" : [
+								0
+        ],
+				  "enabled" : false,
+				  "repeated" : false
+      },
+      "desc" : "",
+      "importance" : 3,
+      "status" : "Unselected",
+      "id" : "90C02A30-BA5E-43F7-94B1-DD05DC435E25",
+      "latitude" : 0,
+      "duration" : 1440,
+      "longitude" : 0
+				  },
+				  {
+      "name" : "走一万八千步",
+      "criteria" : "walk:18000",
+      "worth" : {
+				  "健康" : 5,
+				  "运动" : 5
+      },
+      "type" : "Predefined",
+      "tags" : [
+				"减肥"
+				],
+      "reminder" : {
+				  "every" : 1,
+				  "dayOfWeek" : [
+				  
+				  ],
+				  "dayOfMon" : [
+				  
+				  ],
+				  "unit" : "day",
+				  "minOfDay" : [
+								0
+        ],
+				  "enabled" : false,
+				  "repeated" : false
+      },
+      "desc" : "",
+      "importance" : 3,
+      "status" : "Unselected",
+      "id" : "B6AA0593-642B-43C1-903C-C8DC05247D95",
+      "latitude" : 0,
+      "duration" : 1440,
+      "longitude" : 0
+				  },
+				  {
+      "name" : "走一万步",
+      "criteria" : "walk:10000",
+      "worth" : {
+				  "健康" : 5,
+				  "运动" : 3
+      },
+      "type" : "Predefined",
+      "tags" : [
+				"减肥"
+				],
+      "reminder" : {
+				  "every" : 1,
+				  "dayOfWeek" : [
+				  
+				  ],
+				  "dayOfMon" : [
+				  
+				  ],
+				  "unit" : "day",
+				  "minOfDay" : [
+								0
+        ],
+				  "enabled" : false,
+				  "repeated" : false
+      },
+      "desc" : "",
+      "importance" : 3,
+      "status" : "Unselected",
+      "id" : "30B59669-E516-4112-AB2A-7AA16958053A",
+      "latitude" : 0,
+      "duration" : 30,
+      "longitude" : 0
+				  },
+				  {
+      "name" : "走一万两千步",
+      "criteria" : "walk:12000",
+      "worth" : {
+				  "健康" : 5,
+				  "运动" : 3
+      },
+      "type" : "Predefined",
+      "tags" : [
+				"减肥"
+				],
+      "reminder" : {
+				  "every" : 1,
+				  "dayOfWeek" : [
+				  
+				  ],
+				  "dayOfMon" : [
+				  
+				  ],
+				  "unit" : "day",
+				  "minOfDay" : [
+								0
+        ],
+				  "enabled" : false,
+				  "repeated" : false
+      },
+      "desc" : "",
+      "importance" : 3,
+      "status" : "Unselected",
+      "id" : "B682CABE-F79D-497C-89E6-0D3FF7068D0D",
+      "latitude" : 0,
+      "duration" : 30,
+      "longitude" : 0
+				  },
+				  {
+      "name" : "走一万五千步",
+      "criteria" : "walk:15000",
+      "worth" : {
+				  "健康" : 5,
+				  "运动" : 3
+      },
+      "type" : "Predefined",
+      "tags" : [
+				"减肥"
+				],
+      "reminder" : {
+				  "every" : 1,
+				  "dayOfWeek" : [
+				  
+				  ],
+				  "dayOfMon" : [
+				  
+				  ],
+				  "unit" : "day",
+				  "minOfDay" : [
+								0
+        ],
+				  "enabled" : false,
+				  "repeated" : false
+      },
+      "desc" : "",
+      "importance" : 3,
+      "status" : "Unselected",
+      "id" : "04D6C3F9-1654-4E9D-B024-09446EB62D66",
+      "latitude" : 0,
+      "duration" : 30,
+      "longitude" : 0
+				  },
+				  {
+      "name" : "做饭",
+      "criteria" : "",
+      "worth" : {
+				  "生活" : 10
+      },
+      "type" : "Predefined",
+      "tags" : [
+				"周末",
+				"吃好的"
+				],
+      "reminder" : {
+				  "every" : 1,
+				  "dayOfWeek" : [
+								 6
+								 ],
+				  "dayOfMon" : [
+				  
+				  ],
+				  "unit" : "week",
+				  "minOfDay" : [
+								1260
+        ],
+				  "enabled" : true,
+				  "repeated" : true
+      },
+      "desc" : "",
+      "importance" : 1,
+      "status" : "Unselected",
+      "id" : "9D46968B-FEF0-465C-9594-1476A9CF720D",
+      "latitude" : 0,
+      "duration" : 60,
+      "longitude" : 0
+				  },
+				  {
+      "name" : "做家务",
+      "criteria" : "",
+      "worth" : {
+				  "生活" : 10
+      },
+      "type" : "Predefined",
+      "tags" : [
+				"家务"
+				],
+      "reminder" : {
+				  "every" : 1,
+				  "dayOfWeek" : [
+								 7
+								 ],
+				  "dayOfMon" : [
+				  
+				  ],
+				  "unit" : "week",
+				  "minOfDay" : [
+								600
+        ],
+				  "enabled" : true,
+				  "repeated" : true
+      },
+      "desc" : "",
+      "importance" : 3,
+      "status" : "Unselected",
+      "id" : "A33E0DAF-62D5-494A-A603-534E69E4D40D",
+      "latitude" : 0,
+      "duration" : 30,
+      "longitude" : 0
+				  },
+				  {
+      "name" : "做面试题",
+      "criteria" : "",
+      "worth" : {
+				  "工作" : 10,
+				  "学习" : 10,
+				  "探索" : 10
+      },
+      "type" : "Predefined",
+      "tags" : [
+				"面试"
+				],
+      "reminder" : {
+				  "every" : 1,
+				  "dayOfWeek" : [
+				  
+				  ],
+				  "dayOfMon" : [
+				  
+				  ],
+				  "unit" : "day",
+				  "minOfDay" : [
+								540
+        ],
+				  "enabled" : true,
+				  "repeated" : true
+      },
+      "desc" : "",
+      "importance" : 3,
+      "status" : "Unselected",
+      "id" : "180BD0DB-13DA-402D-B59B-FE4A1190DB9F",
+      "latitude" : 0,
+      "duration" : 30,
+      "longitude" : 0
+				  },
+				  {
+      "name" : "ATM",
+      "criteria" : "",
+      "worth" : {
+				  "生活" : 2
+      },
+      "type" : "Predefined",
+      "tags" : [
+				"记录生活"
+				],
+      "reminder" : {
+				  "every" : 16,
+				  "dayOfWeek" : [
+				  
+				  ],
+				  "dayOfMon" : [
+				  
+				  ],
+				  "unit" : "day",
+				  "minOfDay" : [
+								720
+        ],
+				  "enabled" : false,
+				  "repeated" : true
+      },
+      "desc" : "",
+      "importance" : 3,
+      "status" : "Unselected",
+      "id" : "7B7D0B8D-8E80-42F8-BF0B-E8CE54D7B7C9",
+      "latitude" : 0,
+      "duration" : 15,
+      "longitude" : 0
+				  }
+				  ],
+	"target" : [
+    {
+				"tags" : [
+        {
+						  "name" : "记录生活"
+        }
+						  ],
+				"name" : "记录生活",
+				"desc" : ""
+    },
+    {
+				"tags" : [
+        {
+						  "name" : "健康"
+        },
+        {
+						  "name" : "增肌"
+        },
+        {
+						  "name" : "减肥"
+        }
+						  ],
+				"name" : "好身材",
+				"desc" : ""
+    },
+    {
+				"tags" : [
+        {
+						  "name" : "面试"
+        }
+						  ],
+				"name" : "找个好工作",
+				"desc" : ""
+    },
+    {
+				"tags" : [
+        {
+						  "name" : "英语"
+        }
+						  ],
+				"name" : "英语达人",
+				"desc" : ""
+    },
+    {
+				"tags" : [
+        {
+						  "name" : "吃好的"
+        }
+						  ],
+				"name" : "吃好吃的",
+				"desc" : ""
+    },
+    {
+				"tags" : [
+        {
+						  "name" : "家务"
+        }
+						  ],
+				"name" : "窗明几净",
+				"desc" : ""
+    },
+    {
+				"tags" : [
+        {
+						  "name" : "读书"
+        }
+						  ],
+				"name" : "多读书",
+				"desc" : ""
+    },
+    {
+				"tags" : [
+        {
+						  "name" : "朋友"
+        }
+						  ],
+				"name" : "朋友遍天下",
+				"desc" : ""
+    },
+    {
+				"tags" : [
+        {
+						  "name" : "家庭"
+        }
+						  ],
+				"name" : "模范爸妈",
+				"desc" : ""
+    },
+    {
+				"tags" : [
+        {
+						  "name" : "玩"
+        },
+        {
+						  "name" : "主机游戏"
+        }
+						  ],
+				"name" : "疯玩",
+				"desc" : ""
+    },
+    {
+				"tags" : [
+        {
+						  "name" : "生病"
+        },
+        {
+						  "name" : "健康"
+        }
+						  ],
+				"name" : "越活越健康",
+				"desc" : ""
+    },
+    {
+				"tags" : [
+        {
+						  "name" : "个人卫生"
+        }
+						  ],
+				"name" : "懒人提醒",
+				"desc" : ""
+    },
+    {
+				"tags" : [
+        {
+						  "name" : "工作大小事"
+        }
+						  ],
+				"name" : "记录工作",
+				"desc" : ""
+    },
+    {
+				"tags" : [
+        {
+						  "name" : "周末"
+        }
+						  ],
+				"name" : "慵懒的周末",
+				"desc" : ""
+    },
+    {
+				"tags" : [
+        {
+						  "name" : "精选"
+        }
+						  ],
+				"name" : "开心健康有意义",
+				"desc" : ""
+    }
+				],
+	"category" : [
+				  {
+      "name" : "生活"
+				  },
+				  {
+      "name" : "探索"
+				  },
+				  {
+      "name" : "健康"
+				  },
+				  {
+      "name" : "娱乐"
+				  },
+				  {
+      "name" : "学习"
+				  },
+				  {
+      "name" : "社交"
+				  },
+				  {
+      "name" : "运动"
+				  },
+				  {
+      "name" : "工作"
+				  }
+				  ],
+	"tag" : [
+    {
+			 "name" : "吃好的"
+    },
+    {
+			 "name" : "打球"
+    },
+    {
+			 "name" : "读书"
+    },
+    {
+			 "name" : "发现"
+    },
+    {
+			 "name" : "个人卫生"
+    },
+    {
+			 "name" : "工作大小事"
+    },
+    {
+			 "name" : "记录生活"
+    },
+    {
+			 "name" : "家庭"
+    },
+    {
+			 "name" : "家务"
+    },
+    {
+			 "name" : "减肥"
+    },
+    {
+			 "name" : "健康"
+    },
+    {
+			 "name" : "精选"
+    },
+    {
+			 "name" : "面试"
+    },
+    {
+			 "name" : "朋友"
+    },
+    {
+			 "name" : "生病"
+    },
+    {
+			 "name" : "玩"
+    },
+    {
+			 "name" : "业务能力"
+    },
+    {
+			 "name" : "英语"
+    },
+    {
+			 "name" : "增肌"
+    },
+    {
+			 "name" : "周末"
+    },
+    {
+			 "name" : "主机游戏"
+    }
+			 ]
+}
